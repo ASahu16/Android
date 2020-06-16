@@ -1,0 +1,4 @@
+#Sun Dec 30 23:29:55 IST 2018
+base.0=C\:\\Users\\SAHU\\Documents\\Android\\android-NavigationDrawer-master\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

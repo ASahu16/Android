@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="281dp"
+        android:layout_height="71dp"
+        android:onClick="list_dialog"
+        android:text="List Dialog Box" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="283dp"
+        android:layout_height="69dp"
+        android:onClick="radio_dialog"
+        android:text="Radio Button Dialog Box" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="281dp"
+        android:layout_height="61dp"
+        android:onClick="checkbox_dialog"
+        android:text="CheckBox Dialog Box "
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="61dp"
+        tools:layout_editor_absoluteY="243dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="264dp"
+        android:layout_height="192dp"
+        android:background="@android:color/holo_blue_bright"
+        android:gravity="center"
+        android:text="Select Item"
+        android:textSize="50dp"
+        app:fontFamily="cursive" />
+
+
+</LinearLayout>

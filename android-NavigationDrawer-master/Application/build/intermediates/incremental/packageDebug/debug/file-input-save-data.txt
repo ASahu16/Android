@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Dec 30 23:29:55 IST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\SAHU\\Documents\\Android\\android-NavigationDrawer-master\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
